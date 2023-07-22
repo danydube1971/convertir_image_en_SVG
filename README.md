@@ -6,6 +6,8 @@ assez sombre devient noir et tout ce qui est assez clair devient blanc. Ensuite,
 en une image vectorielle, qui est un type d'image que vous pouvez agrandir autant que vous le souhaitez sans perdre de qualité. Enfin, il sauvegarde cette 
 nouvelle image vectorielle à côté de votre image originale.
 
+![Capture du 2023-07-22 14-40-21](https://github.com/danydube1971/convertir_image_en_SVG/assets/74633244/7ab99589-a3ee-45bb-a228-5f589f026cd7)
+
 
 1. Le script commence par importer les modules nécessaires : `os`, `cv2` (OpenCV), `subprocess`, `tkinter`, `filedialog`, `Image` et `numpy`.
 2. La fonction `select_file()` est définie. Elle crée une fenêtre de sélection de fichiers à l'aide de `tkinter` et `filedialog`, permet à l'utilisateur de
